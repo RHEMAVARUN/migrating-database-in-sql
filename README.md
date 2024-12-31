@@ -17,4 +17,6 @@ task_3
 
 # OUT PUT OF THE TASK_3
 
+![Screenshot (12)](https://github.com/user-attachments/assets/a5eea0ba-37d4-47c1-8558-b60b55c3d95a)
+
 
